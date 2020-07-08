@@ -1,0 +1,51 @@
+.listBox{
+	width: 90%;
+    max-width: 400px;
+    min-width: 400px;
+    min-height: 300px;
+	background: #f3f3f3;
+	background-color:grey;
+	background-position-x: 0%;
+	background-position-y: 0%;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-origin: padding-box;
+	background-clip: border-box;
+	margin: 30px auto;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: 30px;
+    margin-left: auto;
+    padding: 2px;
+}
+.listBox .addTodo-Area{
+    width: 90%;
+    background-color:whitesmoke;
+    padding: 5px;
+    margin: auto;
+}
+.listBox .addTodo-Area .text-1{
+    box-sizing: border-box;
+    width: 90%;
+}
+.listBox .addTodo-Area .btn{
+    box-sizing: border-box;
+    width: 10%;
+}
+
+.todo-Area{
+    width: 90%;
+    background-color:whitesmoke;
+    padding: 5px;
+    margin: auto;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.todo-Area .content{
+    box-sizing: border-box;
+    width: 80%;
+}
+.todo-Area .btn{
+    box-sizing: border-box;
+    width: 10%;
+}
